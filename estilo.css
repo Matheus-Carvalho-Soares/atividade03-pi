@@ -59,7 +59,7 @@ h1 {
     justify-content: space-evenly;
 }
 .container-exercicioB{
-    flex-direction: column;
+    flex-direction: column-reverse;
 }
 .container-desafio{
     flex-direction: row-reverse;
